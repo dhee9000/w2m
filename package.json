@@ -1,0 +1,9 @@
+{
+  "name": "w2mserver",
+  "version": "1.0.0",
+  "description": "w2m server",
+  "main": "server.js",
+  "repository": "https://github.com/dhee9000/w2m.git",
+  "author": "Dheeraj Yalamanchili <dhee9000@gmail.com>",
+  "license": "MIT"
+}
